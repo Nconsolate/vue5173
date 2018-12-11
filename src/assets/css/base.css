@@ -1,0 +1,464 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+html,
+body,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+td {
+  margin: 0;
+  padding: 0
+}
+
+html,
+body {
+  min-height: 100%;
+  line-height: 1.15;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif
+}
+
+body {
+  margin: 0;
+  position: relative;
+  background: #f1f1f1;
+  font-weight: normal;
+  color: #333
+}
+html,body{
+  height:100%;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+main,
+nav,
+section {
+  display: block
+}
+
+summary {
+  display: list-item
+}
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0
+}
+
+template,
+script {
+  display: none
+}
+
+a {
+  background-color: transparent;
+  color: #333;
+  -webkit-text-decoration-skip: objects
+}
+
+a:focus {
+  outline: none
+}
+
+a:active,
+a:hover {
+  outline: 0
+}
+
+ins,
+a {
+  text-decoration: none
+}
+
+abbr[title] {
+  border-bottom: 1px dotted
+}
+
+b,
+strong {
+  font-weight: bold
+}
+
+button {
+  background: transparent;
+  border: 0 none
+}
+
+ol,
+ul,
+li {
+  list-style: none
+}
+
+i,
+em {
+  font-style: normal
+}
+
+ul,
+menu,
+dir {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-padding-start: 0
+}
+
+pre {
+  white-space: pre-wrap
+}
+
+small {
+  font-size: 80%
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline
+}
+
+sup {
+  top: -0.5em
+}
+
+sub {
+  bottom: -0.25em
+}
+
+img {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  vertical-align: middle;
+  border: 0
+}
+
+svg:not(:root) {
+  overflow: hidden
+}
+
+figure {
+  margin: 0
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: Monaco, Menlo, Consolas, "Courier New", "FontAwesome", monospace;
+  font-size: 1em
+}
+
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: .35em .625em .75em
+}
+
+legend {
+  border: 0;
+  padding: 0
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+  outline: none
+}
+
+button {
+  overflow: visible
+}
+
+button,
+input {
+  line-height: normal
+}
+
+button,
+select {
+  text-transform: none
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  cursor: pointer;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+button[disabled],
+html input[disabled] {
+  cursor: default
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none
+}
+
+textarea {
+  overflow: auto;
+  vertical-align: top;
+  resize: vertical;
+  -webkit-appearance: none;
+  outline: none
+}
+
+optgroup {
+  font-weight: bold
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+td,
+th {
+  padding: 0
+}
+
+body,
+input,
+textarea,
+select,
+button {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga", "kern"
+}
+
+@media only screen and (max-width: 640px) {
+  body {
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto
+  }
+}
+
+ins {
+  background: #ffa;
+  color: #333
+}
+
+mark {
+  background: #ffa;
+  color: #333
+}
+
+abbr[title],
+dfn[title] {
+  cursor: help
+}
+
+dfn[title] {
+  border-bottom: 1px dotted;
+  font-style: normal
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-size: 100%
+}
+
+hr {
+  display: block;
+  padding: 0;
+  border: 0;
+  height: 0;
+  border-top: 1px solid #eee;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+address {
+  font-style: normal
+}
+
+blockquote {
+  padding-top: .05rem;
+  padding-bottom: .05rem;
+  padding-left: .15rem;
+  border-left: .04rem solid #ddd;
+  font-family: Georgia, "Times New Roman", Times, Kai, "Kaiti SC", KaiTi, BiauKai, "FontAwesome", serif
+}
+
+blockquote small {
+  display: block;
+  color: #999;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  text-align: right
+}
+
+blockquote p:last-of-type {
+  margin-bottom: 0
+}
+
+iframe {
+  border: 0
+}
+
+button,
+input:not([type="radio"]):not([type="checkbox"]),
+select {
+  vertical-align: middle
+}
+
+#wrapper {
+  height: auto;
+  display: block;
+  max-width: 768px;
+  margin: 0 auto;
+  position: relative
+}
+
+input[type="button"] {
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0
+}
+
+input[type="submit"] {
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0
+}
+
+input[type="text"] {
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0
+}
+
+input[type="number"] {
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0
+}
+
+input[type="tel"] {
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0
+}
+
+input[type="number"] {
+  -moz-appearance: textfield
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #c7c4c4;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  font-weight: normal
+}
+
+input::-moz-placeholder,
+textarea:-moz-placeholder {
+  color: #c7c4c4;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  font-weight: normal
+}
+
+input::-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  color: #c7c4c4;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  font-weight: normal
+}
+.active{
+  color:#f60
+}

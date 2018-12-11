@@ -1,0 +1,13 @@
+export const VIEW_NAV='VIEW_NAV';
+export const VIEW_FOOT='VIEW_FOOT';
+export const VIEW_LOADING='VIEW_LOADING';
+export const UPDATE_HOME='UPDATE_HOME';
+export const CHECK_USER='CHECK_USER';
+export const HM_NAV = 'HM_NAV';
+export const HPC_NAV = 'HPC_NAV';
+export const M1M_NAV = 'M1M_NAV';
+export const M1PC_NAV = 'M1PC_NAV';
+export const M2M_NAV = 'M2M_NAV';
+export const M2PC_NAV = 'M2PC_NAV';
+export const FIRSTPYM1 = 'FIRSTPYM1';
+export const FIRSTPYM2 = 'FIRSTPYM2';

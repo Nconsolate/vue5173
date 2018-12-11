@@ -1,0 +1,37 @@
+ {
+   "responseStatus": {
+     "code": "00",
+     "message": "操作成功"
+   },
+   "success": true,
+   "isException": false,
+   "data": [{
+       "backgroundImg": "https://m.5173.com/dist/src/assets/images/bi.png?4c17463a1925e13a40170217577e62ff",
+        "type":"游戏币",
+       "sort": 1
+     },
+    {
+      "backgroundImg": "https://m.5173.com/dist/src/assets/images/hao.png?a84cb1e8617e9a85ae9f871c99d2820b",
+      "type": "帐号",
+      "sort": 2
+    },
+    {
+      "backgroundImg": "https://m.5173.com/dist/src/assets/images/shouyou.png?0536c7ed8a15ea34b62f7775037f6543",
+      "type": "手游充值",
+      "sort": 3
+    },
+    {
+      "backgroundImg": "https://m.5173.com/dist/src/assets/images/lian.png?0789b451d8e76332ca3666e4d091b120",
+      "type": "代练",
+      "sort": 4
+    },
+    {
+      "backgroundImg": "https://m.5173.com/dist/src/assets/images/zhuan.png?864452f1f547278968d779765eb3b972",
+      "type": "装备",
+      "sort": 5
+    }
+   ],
+   "pageIndex": 0,
+   "pageSize": 0,
+   "totalCount": 0
+ }
