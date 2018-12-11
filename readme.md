@@ -1,62 +1,62 @@
 # v-vue-m5173
 
-### ÏîÄ¿¼ò½é
+### é¡¹ç›®ç®€ä»‹
 ```  
-»ùÓÚvue,font-awesome,ÊµÏÖµÄ·ÂÕ¾£¬·Â5173ÒÆ¶¯¶Ë£¨²ĞÆ·  ÓĞÊ±¼äÔÚÍêÉÆ£©
+åŸºäºvue,font-awesome,å®ç°çš„ä»¿ç«™ï¼Œä»¿5173ç§»åŠ¨ç«¯ï¼ˆæ®‹å“  æœ‰æ—¶é—´åœ¨å®Œå–„ï¼‰
 
 ```  
-githubµØÖ·:https://github.com/Nconsolate/vue5173   
+githubåœ°å€:https://github.com/Nconsolate/vue5173   
   
-giteeµØÖ·:https://gitee.com/Nconsolate/vue5173  
+giteeåœ°å€:https://gitee.com/Nconsolate/vue5173  
 
 
-## 1£¬°²×°
+## 1ï¼Œå®‰è£…
  
- **  git clone git@github.com:Nconsolate/vue5173.git**  
+ **git clone git@github.com:Nconsolate/vue5173.git**  
    
- »òÕß  
+ æˆ–è€…  
  
- ** git clone git@gitee.com:Nconsolate/vue5173.git**
+ **git clone git@gitee.com:Nconsolate/vue5173.git**
 
-## 2£¬Ê¹ÓÃ
+## 2ï¼Œä½¿ç”¨
 
-**Ê¹ÓÃnpm install °²×°ÒÀÀµ**
-£¨ÒÀÀµ¹ı¶à£¬¿ÉÄÜ´æÔÚÏÂÔØÊ§°ÜµÄÇé¿ö£¬½¨ÒéÇĞ»»ÎÈ¶¨µÄnpmÔ´ ½øĞĞ³¢ÊÔ£©
-£¨ÓÃµ½ÁËnode-sass£©°²×°¹ı³ÌÖĞÈİÒ×Ê§°Ü£¬½¨Òéµ¥¶À°²×°   npm i node-sass
+**ä½¿ç”¨npm install å®‰è£…ä¾èµ–**
+ï¼ˆä¾èµ–è¿‡å¤šï¼Œå¯èƒ½å­˜åœ¨ä¸‹è½½å¤±è´¥çš„æƒ…å†µï¼Œå»ºè®®åˆ‡æ¢ç¨³å®šçš„npmæº è¿›è¡Œå°è¯•ï¼‰
+ï¼ˆç”¨åˆ°äº†node-sassï¼‰å®‰è£…è¿‡ç¨‹ä¸­å®¹æ˜“å¤±è´¥ï¼Œå»ºè®®å•ç‹¬å®‰è£…   npm i node-sass
 
-**npm start ÔËĞĞ**
+**npm start è¿è¡Œ**
 
-**·ÃÎÊ http://localhost:8080**
+**è®¿é—® http://localhost:8080**
 
-Ä¬ÈÏ¶Ë¿ÚÎª8080
+é»˜è®¤ç«¯å£ä¸º8080
 
-##### ÔÚÏß²é¿´µØÖ·£º  http://47.101.199.141:8083/
-
-
-## ¼¼Êõ
-
-Ê¹ÓÃÁËvue-cli´î½¨µÄÏîÄ¿¡£  
-Ê¹ÓÃfont-awesome´¦ÀíiconÍ¼±ê¡£
-Ê¹ÓÃÁËswipeÂÖ²¥²å¼ş¡£
-Ê¹ÓÃÁËfont-size£¨rem£©µÄÒÆ¶¯ÊÊÅä·½°¸¡£ 
-Ê¹ÓÃÁËflexµÄÉÏÏÂ¹Ì¶¨£¬ÖĞ¼ä×ÔÊÊÓ¦µÄ²¼¾Ö¡£
-Ê¹ÓÃÁËsass½øĞĞcssÑùÊ½±àÒë¡£
-vuexÊµÏÖÊı¾İ×´Ì¬¹ÜÀí¡£ 
-vue-routerÊµÏÖÁËÂ·ÓÉ¹ÜÀí¡£   
-Ê¹ÓÃaxios½øĞĞÊı¾İµÄÇëÇó¡£proxy´úÀí¿çÓò¡£
+##### åœ¨çº¿æŸ¥çœ‹åœ°å€ï¼š  http://47.101.199.141:8083/
 
 
+## æŠ€æœ¯
 
-###### Êı¾İ
+ä½¿ç”¨äº†vue-cliæ­å»ºçš„é¡¹ç›®ã€‚  
+ä½¿ç”¨font-awesomeå¤„ç†iconå›¾æ ‡ã€‚
+ä½¿ç”¨äº†swipeè½®æ’­æ’ä»¶ã€‚
+ä½¿ç”¨äº†font-sizeï¼ˆremï¼‰çš„ç§»åŠ¨é€‚é…æ–¹æ¡ˆã€‚ 
+ä½¿ç”¨äº†flexçš„ä¸Šä¸‹å›ºå®šï¼Œä¸­é—´è‡ªé€‚åº”çš„å¸ƒå±€ã€‚
+ä½¿ç”¨äº†sassè¿›è¡Œcssæ ·å¼ç¼–è¯‘ã€‚
+vuexå®ç°æ•°æ®çŠ¶æ€ç®¡ç†ã€‚ 
+vue-routerå®ç°äº†è·¯ç”±ç®¡ç†ã€‚   
+ä½¿ç”¨axiosè¿›è¡Œæ•°æ®çš„è¯·æ±‚ã€‚proxyä»£ç†è·¨åŸŸã€‚
+
+
+
+###### æ•°æ®
     
-* ¾²Ì¬Í¼Æ¬         
-Ê¹ÓÃ5173ÒÆ¶¯¶ËµÄ¾²Ì¬Í¼Æ¬¡£
-* Ê×Ò³hotÊı¾İ¡£
-* Ê×Ò³swipeÊı¾İ¡£ 
-* selectNavÊı¾İ¡£
-* ÎÒÒªÂò£¨Âô£©Ò³ÃæÊı¾İ¡£  
+* é™æ€å›¾ç‰‡         
+ä½¿ç”¨5173ç§»åŠ¨ç«¯çš„é™æ€å›¾ç‰‡ã€‚
+* é¦–é¡µhotæ•°æ®ã€‚
+* é¦–é¡µswipeæ•°æ®ã€‚ 
+* selectNavæ•°æ®ã€‚
+* æˆ‘è¦ä¹°ï¼ˆå–ï¼‰é¡µé¢æ•°æ®ã€‚  
 
-###### Ëù´«²ÎÊıÏê¼ûÔ´Âë 
+###### æ‰€ä¼ å‚æ•°è¯¦è§æºç  
 https:/m.5173.com/m-base-frontend/HotRecommend/selectHotRecommend  
 
 https:/m.5173.com/m-base-frontend/HomePageBanner/selectBanner  
@@ -70,10 +70,10 @@ https:/m.5173.com/m-base-frontend/goodsSearch/goodsSearchList
 https:/m.5173.com/sym/ajax/ajaxroutes?gwtype=goodsSearch  
 
 
-###### ¹¦ÄÜÊµÏÖ
+###### åŠŸèƒ½å®ç°
 
-½Ó¿ÚµÄµ÷ÓÃÉæ¼°ÁË¿çÓò£¬·ÀµÁÁ´£¬hostĞ£ÑéµÈÎÊÌâ£¬
-±¾µØ»·¾³Í¨¹ıÔÚconfigÏÂµÄindex.jsÖĞdevÅäÖÃproxyTable½â¾ö
+æ¥å£çš„è°ƒç”¨æ¶‰åŠäº†è·¨åŸŸï¼Œé˜²ç›—é“¾ï¼Œhostæ ¡éªŒç­‰é—®é¢˜ï¼Œ
+æœ¬åœ°ç¯å¢ƒé€šè¿‡åœ¨configä¸‹çš„index.jsä¸­devé…ç½®proxyTableè§£å†³
 ```
 proxyTable: {
        '/api': {
@@ -90,7 +90,7 @@ proxyTable: {
  }  
 ```
 
-·şÎñÆ÷»·¾³Í¨¹ıÅäÖÃnginx·´Ïò´úÀí½â¾ö¡£
+æœåŠ¡å™¨ç¯å¢ƒé€šè¿‡é…ç½®nginxåå‘ä»£ç†è§£å†³ã€‚
 ```
   location /api {       
         rewrite  ^/api/(.*)$ /$1 break;
@@ -100,8 +100,8 @@ proxyTable: {
       }
 ```
 
-±¾µØ»·¾³Â·ÓÉÕı³£ ÏßÉÏ»·¾³Â·ÓÉÌø×ªÕı³££¬Ë¢ĞÂÊ§Ğ§ÎÊÌâ
-Í¨¹ıÅäÖÃnginx½â¾ö ¡£ 
+æœ¬åœ°ç¯å¢ƒè·¯ç”±æ­£å¸¸ çº¿ä¸Šç¯å¢ƒè·¯ç”±è·³è½¬æ­£å¸¸ï¼Œåˆ·æ–°å¤±æ•ˆé—®é¢˜
+é€šè¿‡é…ç½®nginxè§£å†³ ã€‚ 
 ```
 location / {
              try_files $uri $uri/ @router;
@@ -112,130 +112,130 @@ location / {
               }
 ```
 
-###### **½çÃæÊµÏÖ**  
-»ù±¾ÊÇ²ÎÕÕ5173ÒÆ¶¯¶ËµÄÍøÕ¾Ğ´µÄ½çÃæ¡£
+###### **ç•Œé¢å®ç°**  
+åŸºæœ¬æ˜¯å‚ç…§5173ç§»åŠ¨ç«¯çš„ç½‘ç«™å†™çš„ç•Œé¢ã€‚
 
 
 
 
-## Ä¿Â¼
+## ç›®å½•
 ```
-©¦  .babelrc
-©¦  .editorconfig
-©¦  .gitignore
-©¦  .postcssrc.js
-©¦  index.html                               ³ÌĞòÖ÷Èë¿Ú
-©¦  package-lock.json            Ëø¶¨°²×°Ê±µÄ°ü°æ±¾ºÅpackage
-©¦  package.json                             °ü°æ±¾ºÅ
-©¦  readme.md
-©¦  
-©À©¤build                                     webpackÏà¹ØÅäÖÃ
-©¦      build.js     
-©¦      check-versions.js
-©¦      utils.js
-©¦      vue-loader.conf.js
-©¦      webpack.base.conf.js
-©¦      webpack.dev.conf.js
-©¦      webpack.prod.conf.js
-©¦      webpack.test.conf.js
-©¦      
-©À©¤config                                    vue»ù±¾ÅäÖÃ         
-©¦      dev.env.js
-©¦      index.js
-©¦      prod.env.js
-©¦      test.env.js
-©¦      
-©À©¤src                                       ×ÊÔ´Ä¿Â¼
-©¦  ©¦  App.vue
-©¦  ©¦  main.js
-©¦  ©¦  
-©¦  ©À©¤api                                    Êı¾İÇëÇó×Ü½Ó¿Ú
-©¦  ©¦      index.js
-©¦  ©¦      
-©¦  ©À©¤assets                                 ¾²Ì¬×ÊÔ´Ä¿Â¼
-©¦  ©¦  ©À©¤css
-©¦  ©¦  ©¦      base.css
-©¦  ©¦  ©¦      
-©¦  ©¦  ©À©¤img
-©¦  ©¦  ©¦      logo.png
-©¦  ©¦  ©¦      
-©¦  ©¦  ©¸©¤js
-©¦  ©¦          font.js                       font-sizeÊÊÅä×ÔÖ´ĞĞjs
-©¦  ©¦          jquery-1.7.2.js
-©¦  ©¦          swipe.js
-©¦  
-©¦  ©¦          
-©¦  ©À©¤components                             Ò³Ãæ×é¼ş
-©¦  ©¦  ©¦  error.vue
-©¦  ©¦  ©¦  home.vue
-©¦  ©¦  ©¦  login.vue
-©¦  ©¦  ©¦  msg.vue
-©¦  ©¦  ©¦  mybuy.vue
-©¦  ©¦  ©¦  mysale.vue
-©¦  ©¦  ©¦  reg.vue
-©¦  ©¦  ©¦  user.vue
-©¦  ©¦  ©¦  
-©¦  ©¦  ©À©¤common                              ×Ó×é¼ş
-©¦  ©¦  ©¦      FootBar.vue
-©¦  ©¦  ©¦      goodsList.vue
-©¦  ©¦  ©¦      HotTop.vue
-©¦  ©¦  ©¦      logreg.vue
-©¦  ©¦  ©¦      Mold.vue
-©¦  ©¦  ©¦      NavBar.vue
-©¦  ©¦  ©¦      SelectNav.vue
-©¦  ©¦  ©¦      SelectNavHead.vue
-©¦  ©¦  ©¦      Swipe1.vue
-©¦  ©¦  ©¦      
-©¦  ©¦  ©À©¤font-awesome-4.7.0                  font-awesome°ü    
-©¦  ©¦  ©¦  ©À©¤css
-©¦  ©¦  ©¦  ©¦      font-awesome.min.css
-©¦  ©¦  ©¦  ©¦      
-©¦  ©¦  ©¦  ©¸©¤fonts
-©¦  ©¦  ©¦          fontawesome-webfont.eot
-©¦  ©¦  ©¦          fontawesome-webfont.svg
-©¦  ©¦  ©¦          fontawesome-webfont.ttf
-©¦  ©¦  ©¦          fontawesome-webfont.woff
-©¦  ©¦  ©¦          fontawesome-webfont.woff2
-©¦  ©¦  ©¦          FontAwesome.otf
-©¦  ©¦  ©¦          
-©¦  ©¦  ©¸©¤loading                             loadding×é¼ş
-©¦  ©¦          index.js
-©¦  ©¦          loading.vue
-©¦  ©¦          
-©¦  ©À©¤router                                  Â·ÓÉÅäÖÃ
-©¦  ©¦      index.js
-©¦  ©¦      
-©¦  ©¸©¤store                                  ×´Ì¬¹ÜÀí         
-©¦          actions.js
-©¦          getters.js
-©¦          index.js
-©¦          mutations.js
-©¦          state.js
-©¦          types.js
-©¦          
-©À©¤static                                    ¾²Ì¬Êı¾İ
-©¦  ©¦  .gitkeep
-©¦  ©¦  
-©¦  ©¸©¤data
-©¦          Mold.json                        Ä£ÄâÊı¾İ
-©¦          
-©¸©¤test                          ²âÊÔÄ£¿é(ÏîÄ¿´´½¨Ê±¿É²»Ñ¡)
-    ©À©¤e2e
-    ©¦  ©¦  nightwatch.conf.js
-    ©¦  ©¦  runner.js
-    ©¦  ©¦  
-    ©¦  ©À©¤custom-assertions
-    ©¦  ©¦      elementCount.js
-    ©¦  ©¦      
-    ©¦  ©¸©¤specs
-    ©¦          test.js
-    ©¦          
-    ©¸©¤unit
-        ©¦  .eslintrc
-        ©¦  index.js
-        ©¦  karma.conf.js
-        ©¦  
-        ©¸©¤specs
+â”‚  .babelrc
+â”‚  .editorconfig
+â”‚  .gitignore
+â”‚  .postcssrc.js
+â”‚  index.html                               ç¨‹åºä¸»å…¥å£
+â”‚  package-lock.json            é”å®šå®‰è£…æ—¶çš„åŒ…ç‰ˆæœ¬å·package
+â”‚  package.json                             åŒ…ç‰ˆæœ¬å·
+â”‚  readme.md
+â”‚  
+â”œâ”€build                                     webpackç›¸å…³é…ç½®
+â”‚      build.js     
+â”‚      check-versions.js
+â”‚      utils.js
+â”‚      vue-loader.conf.js
+â”‚      webpack.base.conf.js
+â”‚      webpack.dev.conf.js
+â”‚      webpack.prod.conf.js
+â”‚      webpack.test.conf.js
+â”‚      
+â”œâ”€config                                    vueåŸºæœ¬é…ç½®         
+â”‚      dev.env.js
+â”‚      index.js
+â”‚      prod.env.js
+â”‚      test.env.js
+â”‚      
+â”œâ”€src                                       èµ„æºç›®å½•
+â”‚  â”‚  App.vue
+â”‚  â”‚  main.js
+â”‚  â”‚  
+â”‚  â”œâ”€api                                    æ•°æ®è¯·æ±‚æ€»æ¥å£
+â”‚  â”‚      index.js
+â”‚  â”‚      
+â”‚  â”œâ”€assets                                 é™æ€èµ„æºç›®å½•
+â”‚  â”‚  â”œâ”€css
+â”‚  â”‚  â”‚      base.css
+â”‚  â”‚  â”‚      
+â”‚  â”‚  â”œâ”€img
+â”‚  â”‚  â”‚      logo.png
+â”‚  â”‚  â”‚      
+â”‚  â”‚  â””â”€js
+â”‚  â”‚          font.js                       font-sizeé€‚é…è‡ªæ‰§è¡Œjs
+â”‚  â”‚          jquery-1.7.2.js
+â”‚  â”‚          swipe.js
+â”‚  
+â”‚  â”‚          
+â”‚  â”œâ”€components                             é¡µé¢ç»„ä»¶
+â”‚  â”‚  â”‚  error.vue
+â”‚  â”‚  â”‚  home.vue
+â”‚  â”‚  â”‚  login.vue
+â”‚  â”‚  â”‚  msg.vue
+â”‚  â”‚  â”‚  mybuy.vue
+â”‚  â”‚  â”‚  mysale.vue
+â”‚  â”‚  â”‚  reg.vue
+â”‚  â”‚  â”‚  user.vue
+â”‚  â”‚  â”‚  
+â”‚  â”‚  â”œâ”€common                              å­ç»„ä»¶
+â”‚  â”‚  â”‚      FootBar.vue
+â”‚  â”‚  â”‚      goodsList.vue
+â”‚  â”‚  â”‚      HotTop.vue
+â”‚  â”‚  â”‚      logreg.vue
+â”‚  â”‚  â”‚      Mold.vue
+â”‚  â”‚  â”‚      NavBar.vue
+â”‚  â”‚  â”‚      SelectNav.vue
+â”‚  â”‚  â”‚      SelectNavHead.vue
+â”‚  â”‚  â”‚      Swipe1.vue
+â”‚  â”‚  â”‚      
+â”‚  â”‚  â”œâ”€font-awesome-4.7.0                  font-awesomeåŒ…    
+â”‚  â”‚  â”‚  â”œâ”€css
+â”‚  â”‚  â”‚  â”‚      font-awesome.min.css
+â”‚  â”‚  â”‚  â”‚      
+â”‚  â”‚  â”‚  â””â”€fonts
+â”‚  â”‚  â”‚          fontawesome-webfont.eot
+â”‚  â”‚  â”‚          fontawesome-webfont.svg
+â”‚  â”‚  â”‚          fontawesome-webfont.ttf
+â”‚  â”‚  â”‚          fontawesome-webfont.woff
+â”‚  â”‚  â”‚          fontawesome-webfont.woff2
+â”‚  â”‚  â”‚          FontAwesome.otf
+â”‚  â”‚  â”‚          
+â”‚  â”‚  â””â”€loading                             loaddingç»„ä»¶
+â”‚  â”‚          index.js
+â”‚  â”‚          loading.vue
+â”‚  â”‚          
+â”‚  â”œâ”€router                                  è·¯ç”±é…ç½®
+â”‚  â”‚      index.js
+â”‚  â”‚      
+â”‚  â””â”€store                                  çŠ¶æ€ç®¡ç†         
+â”‚          actions.js
+â”‚          getters.js
+â”‚          index.js
+â”‚          mutations.js
+â”‚          state.js
+â”‚          types.js
+â”‚          
+â”œâ”€static                                    é™æ€æ•°æ®
+â”‚  â”‚  .gitkeep
+â”‚  â”‚  
+â”‚  â””â”€data
+â”‚          Mold.json                        æ¨¡æ‹Ÿæ•°æ®
+â”‚          
+â””â”€test                          æµ‹è¯•æ¨¡å—(é¡¹ç›®åˆ›å»ºæ—¶å¯ä¸é€‰)
+    â”œâ”€e2e
+    â”‚  â”‚  nightwatch.conf.js
+    â”‚  â”‚  runner.js
+    â”‚  â”‚  
+    â”‚  â”œâ”€custom-assertions
+    â”‚  â”‚      elementCount.js
+    â”‚  â”‚      
+    â”‚  â””â”€specs
+    â”‚          test.js
+    â”‚          
+    â””â”€unit
+        â”‚  .eslintrc
+        â”‚  index.js
+        â”‚  karma.conf.js
+        â”‚  
+        â””â”€specs
                 HelloWorld.spec.js
 ```
 
