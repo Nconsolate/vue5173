@@ -12,11 +12,11 @@ gitee地址:https://gitee.com/Nconsolate/vue5173
 
 ## 1，安装
  
- **git clone  git clone git@github.com:Nconsolate/vue5173.git**  
+ **  git clone git@github.com:Nconsolate/vue5173.git**  
    
  或者  
  
- **git clone  git clone git@gitee.com:Nconsolate/vue5173.git**
+ ** git clone git@gitee.com:Nconsolate/vue5173.git**
 
 ## 2，使用
 
